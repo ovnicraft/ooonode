@@ -7,6 +7,6 @@
   , "author": "Cristian Salamea <ovnicraft@gmail.com>"
   , "main": "./openobject.js"
   , "dependencies": {
-      "node-xmlprc": "0.9.3"
+      "node-xmlrpc": "0.9.3"
   }
 }
