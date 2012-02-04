@@ -1,12 +1,12 @@
 {
     "name": "openobject"
-  , "version": "0.1"
-  , "private": true
+  , "version": "0.1.0"
+  , "private": false
   , "description": "OpenObject client."
   , "keywords": ["openobject", "openerp"]
   , "author": "Cristian Salamea <ovnicraft@gmail.com>"
   , "main": "./openobject.js"
   , "dependencies": {
-      "xmlprc": "0.9.3"
+      "node-xmlprc": "0.9.3"
   }
 }
