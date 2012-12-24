@@ -16,7 +16,14 @@ via npm:
     var openobject = require('openobject');
 
 ```
+### Login
 
+Method to login in OpenERP Server
+
+```javascript
+    var openobject = new OpenObject(database, host, port, username, password);
+    openobject.login(username, password);
+```
 ## License 
 
 (The MIT License)
